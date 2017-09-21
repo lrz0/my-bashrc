@@ -1,1 +1,1 @@
-source ./alias.sh
+source ~/bashrc/alias.sh
